@@ -1,0 +1,7 @@
+org\example\controller\SongController.class
+org\example\Main.class
+org\example\controller\AlbumController.class
+org\example\models\Song.class
+org\example\repository\SongRepository.class
+org\example\models\Album.class
+org\example\repository\AlbumRepository.class
